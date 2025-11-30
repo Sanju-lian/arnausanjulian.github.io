@@ -13,7 +13,11 @@
 
 	<div class="MyPhoto">
 	
+<<<<<<< HEAD
 	<img src="MyPhoto.jpg" alt="MyPhoto">
+=======
+	<img src="Pics/MyPhoto.jpg" alt="MyPhoto">
+>>>>>>> e6781dd7daf6a6bf5130153515fb9db9b489e973
 	
 	</div>
 	
