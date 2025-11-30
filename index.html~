@@ -13,13 +13,13 @@
 
 	<div class="MyPhoto">
 	
-	<img src="pics/MyPhoto.jpg" alt="MyPhoto">
+	<img src="MyPhoto.jpg" alt="MyPhoto">
 	
 	</div>
 	
 	<div class="Me">
 	
-	<img src="pics/Me_Window.png" alt="Me">
+	<img src="Me_Window.png" alt="Me">
 	
 	</div>
 
@@ -33,10 +33,7 @@
 	<div class="div2">
 	
 	<nav>
-<<<<<<< HEAD
 
-=======
->>>>>>> 6394b0764ad7879f1fe049617c77668fb27284b0
 		<a href="index.html">Home</a>
 		<a href="aboutme-en.html">About me</a>
 		<a href="education-en.html">Education</a>
