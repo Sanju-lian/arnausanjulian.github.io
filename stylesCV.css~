@@ -283,7 +283,7 @@ nav {
 }
 
 .Music img{
-  width: 250px;
+  width: 200px;
   height: auto;
   transform: rotate(-5deg)
 }

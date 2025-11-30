@@ -1,13 +1,13 @@
 @font-face {
 	font-family: 'MSW98UI';
-	src: url('fonts/MSW98UI-Regular.otf') format('opentype');
+	src: url('Fonts/MSW98UI-Regular.otf') format('opentype');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'MSW98UI';
-	src: url('fonts/MSW98UI-Bold.otf') format('opentype');
+	src: url('Fonts/MSW98UI-Bold.otf') format('opentype');
 	font-weight: bold;
 	font-style: normal;
 }
@@ -17,7 +17,7 @@ body{
 font-family: 'MSW98UI', sans-serif;
 font-size: 27px;
 color: black;
-background-image: url('pics/Background.png');
+background-image: url('Pics/Background.png');
 background-size: cover;
 background-position: center;
 margin: 0px;
@@ -98,7 +98,7 @@ nav {
   align-items: flex-start;
   flex-direction: column; 
   width: 1041px;          
-  background-image: url("pics/window.jpg");
+  background-image: url("Pics/window.jpg");
   background-size: cover; 
   background-repeat: no-repeat;
   padding: 20px;
