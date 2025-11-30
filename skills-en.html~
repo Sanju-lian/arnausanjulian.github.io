@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+ 	<title>Skills</title>
+ 	<link rel="stylesheet" href="stylesCV.css">
+</head>
+
+
+<body>
+
+<div class="parent">
+
+<div class="div1">
+
+	<h1>Skills</h1>
+	<h2>Technical skills</h2>
+	
+	<ul>
+		<li>
+   	 <strong>Virtualization</strong><br>
+   	 Experience working with virtual machines in VirtualBox and VMware.
+   	</li>
+  		<li>
+    	<strong>Servers</strong><br>
+    	Basic experience installing, configuring, and managing Windows Server and Linux-based servers.
+    	</li>
+  		<li>
+    	<strong>Device Configuration</strong><br>
+   	Setting up computers, peripherals, network devices, and troubleshooting common issues.
+   	</li>
+  		<li>
+    	<strong>Office Applications</strong><br>
+    	Knowledge of Word, Excel, PowerPoint, and other productivity tools.
+    	</li>
+  		<li>
+    	<strong>Hardware</strong><br>
+    	Installing components, diagnosing issues, repairing computers, and performing maintenance.
+    	</li>
+  		<li>
+    	<strong>Operating Systems</strong><br>
+    	Experience with Windows, Linux (Ubuntu), and basic system configuration.
+    	</li>
+  		<li>
+    	<strong>Networking</strong><br>
+    	Understanding of IP addressing, basic network setup, DHCP, DNS, and troubleshooting.
+    	</li>
+  		<li>
+    	<strong>Programming</strong><br>
+    	Basic programming skills in PSeInt.
+    	</li>
+    	<li>
+    	<strong>Web Development</strong><br>
+    	 Creating simple webpages,structuring content, styling and layout for webpage design with HTML and CSS.
+    	</li>
+	</ul>
+	
+	<h2>Personal skills</h2>
+	
+	<ul>
+		<li>
+		<strong>Responsibility</strong><br>
+		I take my tasks seriously and always try to complete them correctly and on time.
+		</li>
+		<li>
+		<strong>Teamwork</strong><br>
+		I work well with classmates and colleagues, especially in projects and problem-solving tasks.
+		</li>
+		<li>
+		<strong>Organization</strong><br>
+		I keep my work structured and follow steps clearly when working on technical tasks.
+		</li>
+		<li>
+		<strong>Adaptability</strong><br>
+		I learn fast and adapt quickly to new tools, systems, or workflows.
+		</li>
+		<li>
+		<strong>Punctuality</strong><br>
+		I always try to be on time and meet deadlines.
+		</li>
+	</ul>	
+	
+	</div>
+	
+	<div class="div2">
+	
+	<nav>
+		<a href="home-en.html">Home</a>
+		<a href="aboutme-en.html">About me</a>
+		<a href="education-en.html">Education</a>
+		<a href="workex-en.html">Work experience</a>
+		<a href="projects-en.html">Projects</a>
+		<a href="skills-en.html">Skills</a>
+		<a href="languages-en.html">Languages</a>
+		<a href="hobbies-en.html">Hobbies</a>
+		<a href="contact-en.html">Contact</a>
+	</nav>
+	
+	</div>
+	
+	</div>
+
+	<footer>© 2025 Sanju</footer>
+</body>

@@ -1,0 +1,303 @@
+@font-face {
+	font-family: 'MSW98UI';
+	src: url('fonts/MSW98UI-Regular.otf') format('opentype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'MSW98UI';
+	src: url('fonts/MSW98UI-Bold.otf') format('opentype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+
+body{
+font-family: 'MSW98UI', sans-serif;
+font-size: 27px;
+color: black;
+background-image: url('pics/Background.png');
+background-size: cover;
+background-position: center;
+margin: 0px;
+overflow: hidden;
+}
+
+
+a{
+	background-color: white;
+	border-radius: 2px;
+	border-width: 0px;
+	opacity: 1;
+	transition: 0.5s; 
+	font-family: 'Coolvetica';
+	text-decoration: none;
+	font-size: 15px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	text-align: center;
+	display: block;
+	width: 150px;
+	color: black; display: inline-block;
+   padding: 4px 10px;
+   margin-right: 3px;
+   background: #C0C0C0;
+   border-top: 2px solid white;
+   border-left: 2px solid white;
+   border-bottom: 2px solid #808080;
+   border-right: 2px solid #808080;
+   text-decoration: none;
+   color: black;
+   font-family: "MSW98UI";
+   font-size: 12px;
+}
+
+
+.parent {
+  min-height: 100vh;
+  display: grid;
+  grid-template-rows: 1fr auto;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
+}
+
+
+.div2 {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background: #C0C0C0;
+  border-top: 2px solid white;
+  border-left: 2px solid white;
+  border-bottom: 2px solid #808080;
+  border-right: 2px solid #808080;
+  display: flex;
+  justify-content: flex-start;
+  padding: 3px;
+  box-sizing: border-box;
+}
+
+
+.div2 a:active {
+  border-top: 2px solid #808080;
+  border-left: 2px solid #808080;
+  border-bottom: 2px solid white;
+  border-right: 2px solid white;
+}
+
+.div1 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column; 
+  width: 1041px;          
+  background-image: url("pics/window.jpg");
+  background-size: cover; 
+  background-repeat: no-repeat;
+  padding: 20px;
+  box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
+  margin: 50px auto;  
+  height: 695px;
+  overflow-y: auto;
+  gap: 10px;
+  overflow: auto;
+  scrollbar-width: none; 
+  -ms-overflow-style: none;
+}
+
+.div1::-webkit-scrollbar {
+  display: none;
+  }
+  
+.div1 p {
+  flex: 1; 
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+.div1 h1{
+	margin-top: 70px;
+	margin-right: 25px;
+	margin-left: 25px;
+}
+
+.MyPhoto {
+  position: fixed; 
+  top: 650px; 
+  left: 100px; 
+  z-index: 1000; 
+}
+
+.MyPhoto img{
+	width: 250px;
+	height: auto;
+}
+
+.Me {
+  position: fixed; 
+  top: 700px; 
+  left: 50px; 
+  z-index: 1001; 
+}
+
+.Me img{
+	width: auto;
+	height: auto;
+}
+
+.smiley {
+  position: fixed; 
+  top: 700px; 
+  left: 300px; 
+  z-index: 1001; 
+}
+
+.smiley img{
+	width: 100px;
+	height: auto;
+}
+
+.PC {
+  position: fixed; 
+  top: 700px; 
+  left: 1000px; 
+  z-index: 1000; 
+}
+
+.PC img{
+	width: auto;
+	height: auto;
+}
+
+.Mario {
+  position: fixed; 
+  top: 500px; 
+  left: 1430px; 
+  z-index: 1000; 
+}
+
+.Mario img{
+	width: 50px;
+	height: auto;
+}
+
+.html {
+  position: fixed; 
+  top: 700px; 
+  left: 250px; 
+  z-index: 1000; 
+}
+
+.html img{
+	width: 250px;
+	height: auto;
+}
+
+.Ubuntu {
+  position: fixed; 
+  top: 500px; 
+  left: 100px; 
+  z-index: 1000; 
+}
+
+.Ubuntu img{
+	width: 250px;
+	height: auto;
+}
+
+.Windows98 {
+  position: fixed; 
+  top: 200px; 
+  left: 1450px; 
+  z-index: 1000; 
+}
+
+.Windows98 img{
+	width: 250px;
+	height: auto;
+}
+
+.Spain {
+  position: fixed; 
+  top: 500px; 
+  left: 1000px; 
+  z-index: 1000; 
+}
+
+.Spain img{
+  width: 120px;
+  height: auto;
+  transform: rotate(20deg)
+}
+
+.France {
+  position: fixed; 
+  top: 540px; 
+  left: 1050px; 
+  z-index: 1000; 
+}
+
+.France img{
+  width: 120px;
+  height: auto;
+  transform: rotate(5deg)
+}
+
+.catalonia {
+  position: fixed; 
+  top: 455px; 
+  left: 940px; 
+  z-index: 1000; 
+}
+
+.catalonia img{
+  width: 120px;
+  height: auto;
+  transform: rotate(-15deg)
+}
+
+.uk {
+  position: fixed; 
+  top: 560px; 
+  left: 930px; 
+  z-index: 1000; 
+}
+
+.uk img{
+  width: 120px;
+  height: auto;
+  transform: rotate(-5deg)
+}
+.Music {
+  position: fixed; 
+  top: 500px; 
+  left: 150px; 
+  z-index: 1000; 
+}
+
+.Music img{
+  width: 200px;
+  height: auto;
+  transform: rotate(-5deg)
+}
+
+.mirrorsedge {
+  position: fixed; 
+  top: 300px; 
+  left: 1500px; 
+  z-index: 1000; 
+}
+
+.mirrorsedge video{
+
+  transform: rotate(-5deg)
+}
+
+

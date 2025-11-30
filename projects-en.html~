@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+ 	<title>Projects</title>
+ 	<link rel="stylesheet" href="stylesCV.css">
+</head>
+
+	<div class="parent">
+
+	<div class="Mario">
+	
+	<img src="pics/Mario.gif" alt="Mario">	
+	
+	</div>
+
+	<div class="div1">
+
+	<h1>Projects</h1>
+	<p>All of this projects are projects made in class, not personal ones, but I am planning to work on some personal projects in the future.</p>
+	
+	<ul>
+		<li>
+			<strong>Game Development</strong> <br>
+			Worked with two classmates to design and create a simple game, learning teamwork, programming, and problem-solving.<br>
+			I contributed only a little to the coding, because I focused mainly on design and ideas, but I managed to get a basic understanding of what the code did.
+		</li>
+		<li>
+			<strong>Personal Webpage</strong> <br>
+			I created this website as a project for an HTML subject and as part of my curriculum, designing the layout, content, and structure to showcase my education, experience, and projects, while learning how to code in HTML and CSS
+		</li>
+	</ul>
+	
+	</div>
+	
+	<div class="div2">
+	
+	<nav>
+		<a href="home-en.html">Home</a>
+		<a href="aboutme-en.html">About me</a>
+		<a href="education-en.html">Education</a>
+		<a href="workex-en.html">Work experience</a>
+		<a href="projects-en.html">Projects</a>
+		<a href="skills-en.html">Skills</a>
+		<a href="languages-en.html">Languages</a>
+		<a href="hobbies-en.html">Hobbies</a>
+		<a href="contact-en.html">Contact</a>
+	</nav>
+	
+	</div>
+	
+	</div>
+	<footer>© 2025 Sanju</footer>
+</body>

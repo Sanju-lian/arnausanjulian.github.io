@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+ 	<title>Hobbies</title>
+ 	<link rel="stylesheet" href="stylesCV.css">
+</head>
+
+<body>
+	<div class="parent">
+
+	<div class="mirrorsedge">
+	
+	<video  width="230px" autoplay="yes" controls>
+   <source src="pics/videoplayback.mp4" type="video/mp4">
+	</video>
+	
+	</div>
+
+	<div class="Music">
+	
+	<img src="pics/IPod.png" alt="IPod">
+	
+	</div>
+	
+	<div class="div1"> 	
+	
+	<h1>Hobbies</h1>
+	
+	<ul>
+		<li>
+		<strong>Gaming</strong> <br>
+		I enjoy playing video games in my free time. Some of my favorites are <em>Portal 2</em> and <em>Mirror's Edge</em>. I like games that challenge my problem-solving skills, creativity, and reflexes. Playing these games helps me relax while also thinking strategically and experimenting with new ideas.
+		</li>	
+		<li>
+		<strong>Skating</strong> <br>
+		I enjoy skateboarding in my free time. I'm not very skilled yet, but I really enjoy it and it’s a fun way to get around.
+		</li>
+		<li>
+		<strong>Music</strong> <br>
+ 		I like all kinds of music, especially rap. Music helps me focus when working or studying, relax after a busy day, and motivates me to get things done.
+		</li>
+		<li>
+		<strong>Content Creation</strong> <br>
+ 		I already have some videos on my YouTube channel, although it’s a bit inactive at the moment. I plan to make new videos about technology, not just to inform, but to share my opinion in a fun and entertaining way.
+		</li>
+	</ul>
+			
+	</div>
+	
+	<div class="div2">
+	
+	<nav>
+		<a href="home-en.html">Home</a>
+		<a href="aboutme-en.html">About me</a>
+		<a href="education-en.html">Education</a>
+		<a href="workex-en.html">Work experience</a>
+		<a href="projects-en.html">Projects</a>
+		<a href="skills-en.html">Skills</a>
+		<a href="languages-en.html">Languages</a>
+		<a href="hobbies-en.html">Hobbies</a>
+		<a href="contact-en.html">Contact</a>
+	</nav>
+	
+	</div>
+	
+	</div>
+	
+</body>
