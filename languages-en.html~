@@ -11,6 +11,30 @@
 
 <div class="parent">
 
+<div class="Spain">
+
+<img src="pics/Spain.png" alt="spain">
+
+</div>
+
+<div class="France">
+
+<img src="pics/France.png" alt="france">
+
+</div>
+
+<div class="uk">
+
+<img src="pics/united_kingdom.png" alt="uk">
+
+</div>
+
+<div class="catalonia">
+
+<img src="pics/Catalonia.png" alt="catalonia">
+
+</div>
+
 <div class="div1"> 
 
 	<h1>Languages</h1>
@@ -50,5 +74,4 @@
 	
 	</div>
 	
-	<footer>© 2025 Sanju</footer>
 </body>
